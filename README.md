@@ -56,24 +56,4 @@ Si vas a publicar el repositorio o desplegar en producción, considera eliminar 
 
 ## Despliegue en producción
 
-El proyecto está preparado para despliegue (CI/CD) en plataformas como Render. Comando de arranque recomendado:
-
-```bash
-streamlit run app.py
-```
-
-## Pasos para actualizar en GitHub / Render
-
-1. Añade el archivo modificado y crea el commit:
-
-```bash
-git add README.md
-git commit -m "Actualizar README con formato y guía de uso"
-git push origin main
-```
-
-2. En Render o la plataforma que uses, asegúrate de que el comando de start sea `streamlit run app.py` y que las dependencias de `requirements.txt` estén instaladas.
-
----
-
-Si quieres, aplico cambios adicionales (ej.: quitar credenciales, añadir badges, o traducción completa al inglés). Indica qué prefieres.
+El proyecto está hosteado en Render, vía el siguiente link:
