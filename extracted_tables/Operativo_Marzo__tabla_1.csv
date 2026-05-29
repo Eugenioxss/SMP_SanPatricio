@@ -1,0 +1,17 @@
+Nivel,Grado,Alumnos activos,Cupo máximo,Utilización
+Preescolar,Preescolar 1°,28,35,0.8
+Preescolar,Preescolar 2°,30,35,0.8571428571428571
+Preescolar,Preescolar 3°,27,35,0.7714285714285715
+Primaria,Primaria 1°,48,60,0.8
+Primaria,Primaria 2°,45,60,0.75
+Primaria,Primaria 3°,47,60,0.7833333333333333
+Primaria,Primaria 4°,44,60,0.7333333333333333
+Primaria,Primaria 5°,46,60,0.7666666666666667
+Primaria,Primaria 6°,40,60,0.6666666666666666
+Secundaria,Secundaria 1°,50,60,0.8333333333333334
+Secundaria,Secundaria 2°,48,60,0.8
+Secundaria,Secundaria 3°,42,60,0.7
+Preparatoria,Prepa 1°,42,50,0.84
+Preparatoria,Prepa 2°,38,50,0.76
+Preparatoria,Prepa 3°,35,50,0.7
+TOTAL,,610,795,0.7672955974842768

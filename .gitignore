@@ -5,7 +5,7 @@ trash/
 .DS_Store
 
 discrepancies/
-extracted_tables/
+
 trash/
 
 *.xlsx

@@ -1,0 +1,38 @@
+Cuenta,Descripción,Tipo,Naturaleza
+1110-000,Bancos,Activo,Deudora
+1120-000,Clientes (cartera de alumnos),Activo,Deudora
+1130-000,Deudores diversos,Activo,Deudora
+1140-000,Anticipos a proveedores,Activo,Deudora
+1150-000,IVA acreditable,Activo,Deudora
+1200-000,Mobiliario y equipo,Activo,Deudora
+1210-000,Edificio,Activo,Deudora
+1220-000,Equipo de transporte,Activo,Deudora
+1290-000,Depreciación acumulada,Activo,Acreedora
+2110-000,Proveedores,Pasivo,Acreedora
+2120-000,Acreedores diversos,Pasivo,Acreedora
+2130-000,Impuestos por pagar,Pasivo,Acreedora
+2140-000,IVA por pagar,Pasivo,Acreedora
+2150-000,Anticipos de alumnos,Pasivo,Acreedora
+3100-000,Capital social,Capital,Acreedora
+3200-000,Resultados acumulados,Capital,Acreedora
+4100-001,Colegiaturas preescolar,Ingreso,Acreedora
+4100-002,Colegiaturas primaria,Ingreso,Acreedora
+4100-003,Colegiaturas secundaria,Ingreso,Acreedora
+4100-004,Colegiaturas preparatoria,Ingreso,Acreedora
+4200-000,Inscripciones,Ingreso,Acreedora
+4300-000,"Otros ingresos (transporte, comedor, eventos)",Ingreso,Acreedora
+4400-000,Recargos por mora,Ingreso,Acreedora
+5110-000,Sueldos y salarios docentes,Gasto,Deudora
+5120-000,Prestaciones docentes,Gasto,Deudora
+5130-000,IMSS/INFONAVIT docentes,Gasto,Deudora
+5210-000,Sueldos y salarios administrativos,Gasto,Deudora
+5220-000,Prestaciones administrativos,Gasto,Deudora
+5230-000,IMSS/INFONAVIT administrativos,Gasto,Deudora
+5300-000,"Servicios (luz, agua, gas, internet)",Gasto,Deudora
+5400-000,Mantenimiento e instalaciones,Gasto,Deudora
+5500-000,Material didáctico y consumibles,Gasto,Deudora
+5600-000,Marketing y publicidad,Gasto,Deudora
+5700-000,Gastos de viaje y representación,Gasto,Deudora
+5800-000,Honorarios profesionales,Gasto,Deudora
+5900-000,Depreciación del ejercicio,Gasto,Deudora
+5950-000,Otros gastos,Gasto,Deudora

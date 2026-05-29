@@ -1,0 +1,27 @@
+Fecha,Referencia,Concepto,Depósito,Retiro,Saldo
+01/03/2025,,Saldo inicial del mes,,,5280000
+03/03/2025,TR-2103-001,Transferencia colegiaturas - referencia múltiple,845000,,6125000
+04/03/2025,PAG-2103-04,Pago nómina docente quincena 1,,1380000,4745000
+05/03/2025,TR-2103-002,Transferencia colegiaturas - referencia múltiple,615000,,5360000
+05/03/2025,PROV-1842,Pago a proveedor Suministros Escolares SA,,142000,5218000
+06/03/2025,TR-2103-003,Depósito colegiaturas SPEI,488000,,5706000
+07/03/2025,SERV-CFE,Pago CFE servicio eléctrico,,168000,5538000
+10/03/2025,TR-2103-004,Transferencia colegiaturas - referencia múltiple,720000,,6258000
+11/03/2025,TR-2103-005,Depósito colegiaturas SPEI,425000,,6683000
+12/03/2025,PROV-1856,Pago a proveedor Editorial Académica,,78000,6605000
+13/03/2025,TR-2103-006,Transferencia colegiaturas - referencia múltiple,380000,,6985000
+14/03/2025,SAT-MAR,Pago impuestos SAT,,245000,6740000
+17/03/2025,TR-2103-007,Transferencia colegiaturas - referencia múltiple,425000,,7165000
+18/03/2025,DEPÓSITO REF 783452,Depósito recibido - referencia no identificada,38500,,7203500
+18/03/2025,PAG-2103-18,Pago nómina docente quincena 2,,1380000,5823500
+19/03/2025,TR-2103-008,Depósito colegiaturas SPEI,365000,,6188500
+20/03/2025,PROV-1871,Pago a proveedor Mantenimiento Integral,,208500,5980000
+21/03/2025,TR-2103-009,Transferencia colegiaturas - referencia múltiple,295000,,6275000
+24/03/2025,TR-2103-010,Depósito colegiaturas SPEI,215000,,6490000
+25/03/2025,PAG-2103-25,Pago nómina administrativos,,780000,5710000
+26/03/2025,PROV-1885,Pago a proveedor Servicios Generales SA,,85000,5625000
+27/03/2025,TR-2103-011,Transferencia colegiaturas - referencia múltiple,170000,,5795000
+28/03/2025,SERV-AGUA,Pago servicio de agua,,38000,5757000
+31/03/2025,TR-2103-012,Depósito colegiaturas SPEI,159500,,5916500
+31/03/2025,COM-BANC,Comisiones bancarias marzo,,22000,5894500
+,,TOTAL DEL MES,5141000,4526500,5894500

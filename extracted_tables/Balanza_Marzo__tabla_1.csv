@@ -1,0 +1,38 @@
+Cuenta,Descripción,Saldo inicial,Cargos del período,Abonos del período,Saldo final
+1110-000,Bancos,5280000,6180000,5945000,5515000
+1120-000,Clientes (cartera de alumnos),1320000,6385000,6215000,1490000
+1130-000,Deudores diversos,91000,35000,28000,98000
+1140-000,Anticipos a proveedores,160000,160000,175000,145000
+1150-000,IVA acreditable,92000,88000,88000,92000
+1200-000,Mobiliario y equipo,2450000,0,0,2450000
+1210-000,Edificio,38500000,0,0,38500000
+1220-000,Equipo de transporte,1850000,0,0,1850000
+1290-000,Depreciación acumulada,-8420000,0,180000,-8600000
+2110-000,Proveedores,-760000,565000,645000,-840000
+2120-000,Acreedores diversos,-135000,78000,92000,-149000
+2130-000,Impuestos por pagar,-430000,398000,442000,-474000
+2140-000,IVA por pagar,-262000,205000,228000,-285000
+2150-000,Anticipos de alumnos,-200000,72000,95000,-223000
+3100-000,Capital social,-15000000,0,0,-15000000
+3200-000,Resultados acumulados,-22580000,0,0,-22580000
+4100-001,Colegiaturas preescolar,-1275000,0,637500,-1912500
+4100-002,Colegiaturas primaria,-5130000,0,2565000,-7695000
+4100-003,Colegiaturas secundaria,-3220000,0,1565000,-4785000
+4100-004,Colegiaturas preparatoria,-3105000,0,1552500,-4657500
+4200-000,Inscripciones,0,0,0,0
+4300-000,"Otros ingresos (transporte, comedor, eventos)",-685000,0,395000,-1080000
+4400-000,Recargos por mora,-78000,0,42000,-120000
+5110-000,Sueldos y salarios docentes,5480000,2750000,0,8230000
+5120-000,Prestaciones docentes,565000,285000,0,850000
+5130-000,IMSS/INFONAVIT docentes,340000,170000,0,510000
+5210-000,Sueldos y salarios administrativos,1555000,780000,0,2335000
+5220-000,Prestaciones administrativos,158000,82000,0,240000
+5230-000,IMSS/INFONAVIT administrativos,180000,92000,0,272000
+5300-000,"Servicios (luz, agua, gas, internet)",562000,385000,0,947000
+5400-000,Mantenimiento e instalaciones,348000,208500,0,556500
+5500-000,Material didáctico y consumibles,175000,98000,0,273000
+5600-000,Marketing y publicidad,142000,75000,0,217000
+5700-000,Gastos de viaje y representación,95000,78000,0,173000
+5800-000,Honorarios profesionales,415000,215000,0,630000
+5900-000,Depreciación del ejercicio,360000,180000,0,540000
+5950-000,Otros gastos,145000,103500,0,248500

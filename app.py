@@ -316,7 +316,7 @@ def load_data() -> dict[str, object]:
     }
 
 
-st.title("Dashboard Ejecutivo - Colegio San Patricio")
+st.title("Dashboard - Colegio San Patricio")
 st.markdown("---")
 
 try:

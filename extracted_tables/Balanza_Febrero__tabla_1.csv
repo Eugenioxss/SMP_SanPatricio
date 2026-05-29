@@ -1,0 +1,38 @@
+Cuenta,Descripción,Saldo inicial,Cargos del período,Abonos del período,Saldo final
+1110-000,Bancos,4850000,6320000,5890000,5280000
+1120-000,Clientes (cartera de alumnos),1180000,6380000,6240000,1320000
+1130-000,Deudores diversos,95000,28000,32000,91000
+1140-000,Anticipos a proveedores,180000,145000,165000,160000
+1150-000,IVA acreditable,78000,92000,78000,92000
+1200-000,Mobiliario y equipo,2450000,0,0,2450000
+1210-000,Edificio,38500000,0,0,38500000
+1220-000,Equipo de transporte,1850000,0,0,1850000
+1290-000,Depreciación acumulada,-8240000,0,180000,-8420000
+2110-000,Proveedores,-680000,540000,620000,-760000
+2120-000,Acreedores diversos,-125000,85000,95000,-135000
+2130-000,Impuestos por pagar,-385000,380000,425000,-430000
+2140-000,IVA por pagar,-245000,198000,215000,-262000
+2150-000,Anticipos de alumnos,-180000,65000,85000,-200000
+3100-000,Capital social,-15000000,0,0,-15000000
+3200-000,Resultados acumulados,-22580000,0,0,-22580000
+4100-001,Colegiaturas preescolar,0,0,1275000,-1275000
+4100-002,Colegiaturas primaria,0,0,5130000,-5130000
+4100-003,Colegiaturas secundaria,0,0,3220000,-3220000
+4100-004,Colegiaturas preparatoria,0,0,3105000,-3105000
+4200-000,Inscripciones,0,0,0,0
+4300-000,"Otros ingresos (transporte, comedor, eventos)",0,0,685000,-685000
+4400-000,Recargos por mora,0,0,78000,-78000
+5110-000,Sueldos y salarios docentes,0,5480000,0,5480000
+5120-000,Prestaciones docentes,0,565000,0,565000
+5130-000,IMSS/INFONAVIT docentes,0,340000,0,340000
+5210-000,Sueldos y salarios administrativos,0,1555000,0,1555000
+5220-000,Prestaciones administrativos,0,158000,0,158000
+5230-000,IMSS/INFONAVIT administrativos,0,180000,0,180000
+5300-000,"Servicios (luz, agua, gas, internet)",0,562000,0,562000
+5400-000,Mantenimiento e instalaciones,0,348000,0,348000
+5500-000,Material didáctico y consumibles,0,175000,0,175000
+5600-000,Marketing y publicidad,0,142000,0,142000
+5700-000,Gastos de viaje y representación,0,95000,0,95000
+5800-000,Honorarios profesionales,0,415000,0,415000
+5900-000,Depreciación del ejercicio,0,360000,0,360000
+5950-000,Otros gastos,0,145000,0,145000
