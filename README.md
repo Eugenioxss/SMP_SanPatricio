@@ -47,13 +47,11 @@ streamlit run app.py
 
 ### Credenciales de acceso (entorno de desarrollo)
 
-Por motivos de seguridad, la aplicación requiere autenticación. Credenciales de ejemplo para la vista de `Controller`:
+Por motivos de seguridad, la aplicación requiere autenticación. (como los datos son de prueba, las credenciales no están protegidas)
 
 - Usuario: `controller`
 - Contraseña: `SanPatricio2025`
 
-Si vas a publicar el repositorio o desplegar en producción, considera eliminar o rotar estas credenciales y usar variables de entorno o un secret manager.
-
-## Despliegue en producción
+## Host
 
 El proyecto está hosteado en Render, vía el siguiente link:
